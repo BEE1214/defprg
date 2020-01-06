@@ -1,4 +1,4 @@
-# defprg
+# Default Applications
 
 Automated script for installation of my basic daily applications. Includes yes answer to yes/no questions.
 
